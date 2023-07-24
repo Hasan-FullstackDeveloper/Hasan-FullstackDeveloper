@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaheryar Hassan</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">A Full StackDeveloper</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
